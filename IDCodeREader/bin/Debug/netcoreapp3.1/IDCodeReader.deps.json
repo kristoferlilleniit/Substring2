@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IDCodeReader/1.0.0": {
+        "runtime": {
+          "IDCodeReader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDCodeReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.exe
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.deps.json
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.runtimeconfig.json
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.dll
+C:\Users\opilane\source\repos\Substring\ValidateYear\bin\Debug\netcoreapp3.1\ValidateYear.pdb
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.dll
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.pdb
+C:\Users\opilane\source\repos\Substring\ValidateYear\obj\Debug\netcoreapp3.1\ValidateYear.genruntimeconfig.cache
