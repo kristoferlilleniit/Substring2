@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOGITpe20", "LOGITpe20\LOGI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDCodeReader", "IDCodeREader\IDCodeReader.csproj", "{81BFBE39-7509-460F-9325-0627A30A43D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateYear", "ValidateYear\ValidateYear.csproj", "{8D81A780-5855-41B0-8007-3CF31F1745E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateYear", "ValidateYear\ValidateYear.csproj", "{8D81A780-5855-41B0-8007-3CF31F1745E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVVValidation", "CVVValidation\CVVValidation.csproj", "{6E1C2645-F260-43A7-A06A-6D4CD33E4ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8D81A780-5855-41B0-8007-3CF31F1745E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D81A780-5855-41B0-8007-3CF31F1745E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D81A780-5855-41B0-8007-3CF31F1745E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1C2645-F260-43A7-A06A-6D4CD33E4ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1C2645-F260-43A7-A06A-6D4CD33E4ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1C2645-F260-43A7-A06A-6D4CD33E4ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1C2645-F260-43A7-A06A-6D4CD33E4ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
